@@ -19,8 +19,6 @@
 
 Welcome to my MCAT (Medical College Admission Test) preparation journey! As someone with a Bachelor's degree in Computer Science and no pre-med background, I am embarking on this challenging yet exciting journey to pursue my dreams of becoming a physician. This README.md document will serve as my roadmap, guiding me through the process of preparing for the MCAT.
 
-The MCAT is a critical exam for aspiring medical students, and I understand that my computer science background may present unique challenges. However, I am determined to leverage my analytical skills and adaptability to succeed on this journey.
-
 ## Study Plan
 
 My study plan is carefully designed to accommodate my computer science background and lack of pre-med knowledge. It spans six months, allowing me ample time to build a strong foundation, practice extensively, and hone my test-taking skills.
