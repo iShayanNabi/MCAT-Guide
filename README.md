@@ -234,10 +234,6 @@ To achieve success on the MCAT, I will leverage a variety of study materials spe
 - Total Completion: ____________%
 
 ---
-
-Feel free to customize this progress tracker further to suit your preferences. You can add more detailed notes on specific topics, color-code based on progress, or include additional sections to record important insights from practice exams.
-
----
 ## Total Estimated Study Hours: Approximately 580 hours
 ---
 ### Month 1: Building Foundations
